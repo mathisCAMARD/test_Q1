@@ -88,7 +88,7 @@ public class RabbitJump {
         
         int rockP [] = new int [nombre];
         
-        
+        System.out.println("test");
         
         RabbitJump rab = new RabbitJump ();
         
